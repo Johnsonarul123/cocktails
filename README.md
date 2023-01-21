@@ -1,11 +1,1 @@
-#### React Router Fix
-
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
+![](https://github.com/Johnsonarul123/cocktails/blob/main/Cocktails%20Complete%20-%20Google%20Chrome%202023-01-21%2013-21-21.gif)
